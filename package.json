@@ -2,7 +2,7 @@
   "name": "pagetest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Milhax.github.io/pagetest/",
+  "homepage": "./",
   "dependencies": {
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
